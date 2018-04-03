@@ -5,7 +5,7 @@ My Information
   LastName: Kaht  
   PreferredName: James
   TeamName: WildCats
-  SeatLocation: Back row
+  SeatLocation: Back left
   Roles: Team member
     }
   
